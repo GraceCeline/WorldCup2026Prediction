@@ -1,0 +1,1 @@
+{"columns": ["neutral", "home_team_home_winrate", "home_team_away_winrate", "away_team_home_winrate", "away_team_away_winrate", "elo_diff", "form_score_diff", "tournament_weight", "goal_diff", "is_home"], "data": [[false, 1.3242424242424242, 1.0380047505938241, 1.7978142076502732, 1.964179104477612, -5.0, -0.180598113208158, 3, 2.0, 1]]}
