@@ -1,5 +1,5 @@
 class MatchSimulator:
-     def __init__(self, teams, team_ratings):
+    def __init__(self, teams, team_ratings):
         self.teams = teams # List of string of countries
         self.team_ratings = team_ratings
         

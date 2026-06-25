@@ -427,3 +427,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+*.csv
+.kaggle/*
+.ipynb_checkpoints/
+elo_wc/*
+dataset/*
+fifa_wc/*
+.streamlit/secrets.toml
